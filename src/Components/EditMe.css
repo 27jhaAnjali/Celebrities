@@ -1,0 +1,50 @@
+.Editrow1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Editcol1{
+margin:0;    
+margin-left: 4%;
+}
+.Editcol2{
+    margin-right: 0;
+}
+
+.Editcol3{
+    margin-right: 2rem;    
+    
+}
+.Editrow2{
+    display: flex;
+    flex-direction: row;
+    width: 34rem;
+    margin-top: 1rem;
+}
+.Editcol11{
+width: 34rem;
+
+}
+.Editarea{
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    width: 33rem;
+    height: 7rem;
+  
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: 2rem;
+}
+.edit{
+border: none;
+}
+.cancel{
+border: none;
+}
+.rad{
+    border-radius: 8px;
+}
